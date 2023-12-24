@@ -1,0 +1,9 @@
+# env folder
+/bq-env
+
+# credentials file
+.env
+
+# Google service account file
+bq_service_account.json
+
