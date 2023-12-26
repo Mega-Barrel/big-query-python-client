@@ -1,0 +1,59 @@
+
+{
+    "id": {
+        "type": "STRING",
+        "mode": "REQUIRED",
+        "description": "Primary Key. Represents unique transactions"
+    },
+    "user_id": {
+        "type": "STRING",
+        "description": "user id"
+    },
+    "merchant_name": {
+        "type": "STRING",
+        "description": "Name of merchant"
+    },
+    "merchant_type": {
+        "type": "STRING",
+        "description": "Type of merchant"
+    },
+    "mcc": {
+        "type": "STRING"
+    },
+    "transaction_amount": {
+        "type": "INTEGER",
+        "description": "Transaction Amount"
+    },
+    "transaction_currency": {
+        "type": "STRING",
+        "description": "Transaction currency Code"
+    },
+    "billing_amount": {
+        "type": "INTEGER",
+        "description": "billing amount of transaction"
+    },
+    "billing_currency": {
+        "type": "STRING",
+        "description": "Billing currency Code"
+    },
+    "transaction_status": {
+        "type": "STRING",
+        "description": "Status of the transaction"
+    },
+    "transaction_timestamp": {
+        "type": "STRING",
+        "description": "Transaction processed timestamp - M/D/Y"
+    },
+    "transaction_type": {
+        "type": "STRING",
+        "description": "Type of transaction"
+    },
+    "parent_transaction_id": {
+        "type": "STRING",
+        "description": "Parent transaction ID"
+    },
+    "card_entry": {
+        "type": "STRING", 
+        "description": "Status of card entry"
+    }
+}
