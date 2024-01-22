@@ -19,6 +19,13 @@ class BigQueryOperations:
         self.client = bigquery.Client(credentials=credentials, project=project_id)
         self.dataset_id = dataset_id
 
+    def auto_detect_schema(self):
+        """ Auto detects schema from excel/csv file.
+        
+        Args:
+            file_name (str): Name of the file
+        """
+
     def create_table(self, table_id: str, schema: bigquery.SchemaField):
         """Creates a new table in the specified dataset.
 
