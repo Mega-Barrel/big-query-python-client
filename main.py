@@ -1,13 +1,26 @@
 """ Main file to insert data to BQ"""
-import pandas as pd
+import os
 
-def main(filename):
-    """
-    Main funtion to read CSV file
-    """
-    df = pd.read_csv(file=filename)
-    return df
+from dotenv import load_dotenv
+from big_query import BigQueryOperations
 
-if __name__ == "__main__":
-    FILENAME = '/table_schema/zwya_transactions.csv'
-    main(filename=FILENAME)
+if __name__ == '__main__':
+    load_dotenv()
+
+    PROJECT_ID = os.environ.get('project_id')
+    DATASET_ID = os.environ.get('dataset_id')
+    CREDS_FILE = '/bq_service_account.json'
+    bq = BigQueryOperations(
+        project_id=PROJECT_ID,
+        dataset_id=DATASET_ID,
+        credentials_path=CREDS_FILE
+    )
+
+    TABLE_ID = 'test_table'
+    TABLE_SCHEMA = '/table_schema/zwya_transactions.json'
+
+    is_exists = bq.table_exists(table_id=TABLE_ID)
+    if is_exists:
+        print(f'Table {TABLE_ID} already exists in BQ project.')
+    else:
+        bq.create_table(table_id=TABLE_ID, schema=TABLE_SCHEMA)
