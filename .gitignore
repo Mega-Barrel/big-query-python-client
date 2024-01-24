@@ -7,3 +7,8 @@
 # Google service account file
 bq_service_account.json
 
+# pycache file
+__pycache__
+
+# helper file
+helper/
