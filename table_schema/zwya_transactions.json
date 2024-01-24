@@ -2,7 +2,6 @@
 {
     "id": {
         "type": "STRING",
-        "mode": "REQUIRED",
         "description": "Primary Key. Represents unique transactions"
     },
     "user_id": {
