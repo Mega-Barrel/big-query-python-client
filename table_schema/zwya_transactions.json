@@ -17,7 +17,7 @@
         "description": "Type of merchant"
     },
     "mcc": {
-        "type": "STRING"
+        "type": "INTEGER"
     },
     "transaction_amount": {
         "type": "INTEGER",
@@ -36,7 +36,7 @@
         "description": "Billing currency Code"
     },
     "transaction_status": {
-        "type": "STRING",
+        "type": "INTEGER",
         "description": "Status of the transaction"
     },
     "transaction_timestamp": {
