@@ -1,25 +1,23 @@
 """ Main file to insert data to BQ"""
+import pandas as pd
 from big_query import BigQueryOperations
 
 if __name__ == '__main__':
-    TABLE_ID = 'test_table'
+    TABLE_ID = 'zwya_transactions'
     TABLE_SCHEMA = 'table_schema/zwya_transactions.json'
-    TABLE_FILE_PATH = 'table_schema/zwya_transactions.xlsx'
+    TABLE_FILE_PATH = 'table_schema/zwya_transactions.csv'
 
     # Create BigQueryOperations instance
     bq = BigQueryOperations()
-    # Create table
-    bq.create_table(
-        table_id=TABLE_ID,
-        schema=TABLE_SCHEMA
-    )
-    # Read data from specified file.
-    if '.csv' in TABLE_FILE_PATH:
-        print('reading CSV file')
-    elif '.xlsx' in TABLE_FILE_PATH:
-        print('reading XLSX file')
-    else:
-        print('We are working with integrating with different file format. : D')
 
-    # Insert data to BQ {TABLE_ID} table
-    
+    # Read pandas dataframe
+    data_frame = pd.read_csv(
+        TABLE_FILE_PATH
+    )
+
+    # Read data from file.
+    bq.create_table(
+        df=data_frame,       # Pandas DataFrame
+        table_name=TABLE_ID, # Table name
+        schema=TABLE_SCHEMA  # Table schema
+    )
