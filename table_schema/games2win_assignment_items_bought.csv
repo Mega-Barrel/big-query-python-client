@@ -1,0 +1,892 @@
+id,country,date,item_name,iap_price
+1C91E019A6B349FBA63233528F1F0099,United States,31-Oct-18,budget,1.99
+BC3BA5F6D7024DF3AF2E253C66DD954A,United States,26-Dec-18,budget,1.99
+A87D86FBF0754DED8A4FF70B6FCCA51F,United States,27-Dec-18,budget,1.99
+2A07E2D8F8F14238BC1934D9900D20C0,United States,21-Jan-19,budget,1.99
+BB0BE1B3526A459B8C13D1E8B5904042,United States,27-Jan-19,budget,1.99
+59561537C55743A9BD576DF020C07873,United States,2-Feb-19,everything,34.99
+73A505AF04694578AF7F6389D100459A,United States,6-Feb-19,budget,1.99
+221AE05FF3CE40E9B8CD6C22F146C8DF,United States,7-Feb-19,everything,34.99
+259C25279045410DB733407852A149FC,United States,7-Feb-19,budget,1.99
+763C00CA1E5A4F93905453532BA7AAFB,United States,9-Feb-19,budget,1.99
+0e3fea730c2f06f67a34f24ac35199c2,Pakistan,10-Feb-19,hot_del,0.41
+0e3fea730c2f06f67a34f24ac35199c2,Pakistan,10-Feb-19,hot_del,0.41
+98F9676216B94023B4461AD686E1ABE4,United States,16-Feb-19,essential,0.99
+5341f9567192284a723c78734c1245ce,United States,16-Feb-19,essential,0.99
+E05B1676B1BC42EBBA2AFBD875D5B456,United States,17-Feb-19,steal,9.99
+CE8DD212522642A496C7AE00324933B4,United States,18-Feb-19,bargain,4.99
+06D30912A17D452F893D3D7AF5838BE9,United States,19-Feb-19,bargain,4.99
+D676161EBC764108800630F29C8D466C,United States,19-Feb-19,essential,0.99
+554b530c64320dd0fc42a5f3dd7f3609,United States,21-Feb-19,budget,1.99
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+0e35ff677e36f78416948831a8b68b9e,Egypt,22-Feb-19,hot_del,0.57
+229FC244FBCA465589433CA167D3E5B5,United States,23-Feb-19,budget,1.99
+229FC244FBCA465589433CA167D3E5B5,United States,23-Feb-19,budget,1.99
+A2EB7C2FCB2A45DEBDB77BBF485E4EB4,United States,23-Feb-19,budget,1.99
+B1A1A1BFF785481699BD6DAFC709F69F,United States,24-Feb-19,budget,1.99
+B1A1A1BFF785481699BD6DAFC709F69F,United States,24-Feb-19,budget,1.99
+6b185d8c304e83903123c84657ad5529,United States,24-Feb-19,budget,1.99
+D5E36BA3CAF04D22912A3A2A39F940C2,United States,25-Feb-19,bargain,4.99
+D8787C279B9D47028F50AA67604C9ABA,United States,25-Feb-19,bargain,4.99
+D8787C279B9D47028F50AA67604C9ABA,United States,25-Feb-19,budget,1.99
+3D8324F4DA204332B9BA7092E5ACF242,United States,25-Feb-19,essential,0.99
+D8787C279B9D47028F50AA67604C9ABA,United States,25-Feb-19,essential,0.99
+b066206469824112993ef2282913ac64,Turkey,26-Feb-19,all_cars,24.99
+C021D943BF3F4FB7882D4197E48F0936,United States,27-Feb-19,all_cars,29.99
+09D4224F5CD54B0AA69427D53B064715,United States,27-Feb-19,bargain,4.99
+1399d9c447a709fa223515e0c79016e9,Russia,28-Feb-19,all_cars,24.99
+1a5539eab37efc515d5f79351370be45,Afghanistan,28-Feb-19,everything,0.5
+1a5539eab37efc515d5f79351370be45,Afghanistan,28-Feb-19,bargain,0.45
+1a5539eab37efc515d5f79351370be45,Afghanistan,28-Feb-19,bargain,0.45
+1a5539eab37efc515d5f79351370be45,Afghanistan,28-Feb-19,best_buy,0.82
+1a5539eab37efc515d5f79351370be45,Afghanistan,28-Feb-19,best_buy,0.82
+1a5539eab37efc515d5f79351370be45,Afghanistan,28-Feb-19,best_buy,0.82
+1a5539eab37efc515d5f79351370be45,Afghanistan,28-Feb-19,best_buy,19.99
+1a5539eab37efc515d5f79351370be45,Afghanistan,28-Feb-19,best_buy,19.99
+1a5539eab37efc515d5f79351370be45,Afghanistan,28-Feb-19,budget,0.62
+E99A770097DC4F31BB2FFDA516FB8A78,United States,28-Feb-19,essential,0.99
+1a5539eab37efc515d5f79351370be45,Afghanistan,28-Feb-19,hot_del,0.95
+1399d9c447a709fa223515e0c79016e9,Russia,28-Feb-19,muscle,7.99
+1a5539eab37efc515d5f79351370be45,Afghanistan,28-Feb-19,steal,0.24
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,911,0.76
+937bfbec5948c6aac1d4d8be5c2861d2,United States,1-Mar-19,all_cars,0.49
+407a13b2a497c6ed8e6479ec67181032,Brazil,1-Mar-19,all_cars,0.53
+bc14cbc4ec42e874443ffbd04ab28b25,India,1-Mar-19,all_cars,0.74
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,all_cars,0.82
+6abd9e918a6774379f8491ead2c427f9,United States,1-Mar-19,all_cars,24.99
+32bcccfa9a8dc80a9716dda29d2223a9,United States,1-Mar-19,everything,0.18
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,everything,0.75
+38c6fad5f7c067320e7fd31e6159bbdb,Namibia,1-Mar-19,everything,29.99
+265df11b7d7743b80177fd1d6864670b,Brazil,1-Mar-19,everything,29.99
+6abd9e918a6774379f8491ead2c427f9,United States,1-Mar-19,everything,29.99
+92e31bb957df79a87e36450b13e46d4f,Pakistan,1-Mar-19,everything,29.99
+D7EA6A4B74734F38961066B30F03A68B,United Arab Emirates,1-Mar-19,everything,34.99
+32bcccfa9a8dc80a9716dda29d2223a9,United States,1-Mar-19,bargain,0.35
+32bcccfa9a8dc80a9716dda29d2223a9,United States,1-Mar-19,bargain,0.35
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,bargain,0.42
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,bargain,0.42
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,bargain,0.42
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,bargain,0.42
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,bargain,0.42
+407a13b2a497c6ed8e6479ec67181032,Brazil,1-Mar-19,bargain,0.74
+937bfbec5948c6aac1d4d8be5c2861d2,United States,1-Mar-19,bargain,0.79
+69051257f211d56f1f7c940c94edf5b8,United States,1-Mar-19,bargain,4.99
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,best_buy,0
+bc14cbc4ec42e874443ffbd04ab28b25,India,1-Mar-19,best_buy,0.76
+937bfbec5948c6aac1d4d8be5c2861d2,United States,1-Mar-19,best_buy,0.8
+937bfbec5948c6aac1d4d8be5c2861d2,United States,1-Mar-19,best_buy,0.8
+407a13b2a497c6ed8e6479ec67181032,Brazil,1-Mar-19,best_buy,0.93
+38c6fad5f7c067320e7fd31e6159bbdb,Namibia,1-Mar-19,best_buy,19.99
+265df11b7d7743b80177fd1d6864670b,Brazil,1-Mar-19,best_buy,19.99
+265df11b7d7743b80177fd1d6864670b,Brazil,1-Mar-19,best_buy,19.99
+265df11b7d7743b80177fd1d6864670b,Brazil,1-Mar-19,best_buy,19.99
+bcdd5b71d1e0088d96dd030979fc9c5c,Russia,1-Mar-19,best_buy,19.99
+6abd9e918a6774379f8491ead2c427f9,United States,1-Mar-19,best_buy,19.99
+6abd9e918a6774379f8491ead2c427f9,United States,1-Mar-19,best_buy,19.99
+6abd9e918a6774379f8491ead2c427f9,United States,1-Mar-19,best_buy,19.99
+6abd9e918a6774379f8491ead2c427f9,United States,1-Mar-19,best_buy,19.99
+92e31bb957df79a87e36450b13e46d4f,Pakistan,1-Mar-19,best_buy,19.99
+92e31bb957df79a87e36450b13e46d4f,Pakistan,1-Mar-19,best_buy,19.99
+92e31bb957df79a87e36450b13e46d4f,Pakistan,1-Mar-19,best_buy,19.99
+92e31bb957df79a87e36450b13e46d4f,Pakistan,1-Mar-19,best_buy,19.99
+92e31bb957df79a87e36450b13e46d4f,Pakistan,1-Mar-19,best_buy,19.99
+937bfbec5948c6aac1d4d8be5c2861d2,United States,1-Mar-19,budget,0.73
+407a13b2a497c6ed8e6479ec67181032,Brazil,1-Mar-19,budget,0.77
+38c6fad5f7c067320e7fd31e6159bbdb,Namibia,1-Mar-19,budget,1.99
+09878EA99952451E822615892AEAB1D6,United States,1-Mar-19,budget,1.99
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,buses,0.87
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,concept,0.6
+92e31bb957df79a87e36450b13e46d4f,Pakistan,1-Mar-19,concept,14.99
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,crazy,0.88
+92e31bb957df79a87e36450b13e46d4f,Pakistan,1-Mar-19,crazy,3.99
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,designer,0.88
+0ee4809be2e47f8dd1df3a9c2fbcfff2,Portugal,1-Mar-19,essential,0.86
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,essential,0.87
+937bfbec5948c6aac1d4d8be5c2861d2,United States,1-Mar-19,essential,0.92
+407a13b2a497c6ed8e6479ec67181032,Brazil,1-Mar-19,essential,0.93
+7F44C8C2326749ED97E775ECF5CAD6D3,United States,1-Mar-19,essential,0.99
+A87EC5E32FCB4FDDA2E84F6D4B84C71A,United States,1-Mar-19,essential,0.99
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,hatchback,0.44
+937bfbec5948c6aac1d4d8be5c2861d2,United States,1-Mar-19,hot_del,0.66
+407a13b2a497c6ed8e6479ec67181032,Brazil,1-Mar-19,hot_del,0.91
+38c6fad5f7c067320e7fd31e6159bbdb,Namibia,1-Mar-19,hot_del,14.99
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,muscle,0.54
+bcdd5b71d1e0088d96dd030979fc9c5c,Russia,1-Mar-19,muscle,7.99
+6abd9e918a6774379f8491ead2c427f9,United States,1-Mar-19,muscle,7.99
+92e31bb957df79a87e36450b13e46d4f,Pakistan,1-Mar-19,muscle,7.99
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,sedan,0.19
+92e31bb957df79a87e36450b13e46d4f,Pakistan,1-Mar-19,sedan,5.99
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,sports,0.17
+407a13b2a497c6ed8e6479ec67181032,Brazil,1-Mar-19,sports,0.23
+32bcccfa9a8dc80a9716dda29d2223a9,United States,1-Mar-19,sports,0.66
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,steal,0.11
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,steal,0.11
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,steal,0.11
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,steal,0.11
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,steal,0.11
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,steal,0.11
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,steal,0.11
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,steal,0.11
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,steal,0.11
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,steal,0.11
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,steal,0.11
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,steal,0.11
+407a13b2a497c6ed8e6479ec67181032,Brazil,1-Mar-19,steal,0.3
+937bfbec5948c6aac1d4d8be5c2861d2,United States,1-Mar-19,steal,0.39
+937bfbec5948c6aac1d4d8be5c2861d2,United States,1-Mar-19,steal,0.39
+32bcccfa9a8dc80a9716dda29d2223a9,United States,1-Mar-19,steal,0.82
+bcdd5b71d1e0088d96dd030979fc9c5c,Russia,1-Mar-19,SUV,9.99
+6abd9e918a6774379f8491ead2c427f9,United States,1-Mar-19,SUV,9.99
+92e31bb957df79a87e36450b13e46d4f,Pakistan,1-Mar-19,SUV,9.99
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,trucks,0.94
+92e31bb957df79a87e36450b13e46d4f,Pakistan,1-Mar-19,trucks,11.99
+bb2866f3a282ec57b93067747d1ad379,Brazil,1-Mar-19,vintage,0.69
+a042efe3f2897b33568f12f2084c5f1d,Saudi Arabia,2-Mar-19,all_cars,0.83
+aaae9118777003b911f02b19b16a456b,Philippines,2-Mar-19,all_cars,24.99
+7eea60360c2a9e569d33c8180a88c180,Philippines,2-Mar-19,all_cars,24.99
+E41FE44B3D6D4DF5A94453A60DA7A9D6,United States,2-Mar-19,all_cars,29.99
+028D0604138741D5A3783319B805E8E9,United States,2-Mar-19,all_cars,29.99
+a042efe3f2897b33568f12f2084c5f1d,Saudi Arabia,2-Mar-19,everything,0.96
+DC25BBB29C2A475B9DDE1839C30CF803,United States,2-Mar-19,bargain,4.99
+a042efe3f2897b33568f12f2084c5f1d,Saudi Arabia,2-Mar-19,best_buy,0.16
+aaae9118777003b911f02b19b16a456b,Philippines,2-Mar-19,best_buy,19.99
+aaae9118777003b911f02b19b16a456b,Philippines,2-Mar-19,best_buy,19.99
+aaae9118777003b911f02b19b16a456b,Philippines,2-Mar-19,best_buy,19.99
+aaae9118777003b911f02b19b16a456b,Philippines,2-Mar-19,best_buy,19.99
+7eea60360c2a9e569d33c8180a88c180,Philippines,2-Mar-19,best_buy,19.99
+ff5725c11f3cc03782a1a28f231766a1,Morocco,2-Mar-19,best_buy,19.99
+ff5725c11f3cc03782a1a28f231766a1,Morocco,2-Mar-19,best_buy,19.99
+ff5725c11f3cc03782a1a28f231766a1,Morocco,2-Mar-19,best_buy,19.99
+93CF82AA57A44812B76F6B1DF572EBF1,Ukraine,2-Mar-19,best_buy,19.99
+4B61578993A24123A861D5AC7A5A26DC,United States,2-Mar-19,budget,1.99
+D666975B31B44BD2AEE47AFE7CB37621,United States,2-Mar-19,budget,1.99
+8F0DD39942F54AB1A01E1452CD568F91,United States,2-Mar-19,budget,1.99
+1EF9001D81DA42B7A9A84AB0BA33A328,United States,2-Mar-19,essential,0.99
+E141E8AA2E864225BBE3C6DE426FC1D1,United States,2-Mar-19,essential,0.99
+C24D2C0246EE458FBBC5191FD329B382,United States,2-Mar-19,essential,0.99
+7eea60360c2a9e569d33c8180a88c180,Philippines,2-Mar-19,hatchback,1.99
+aaae9118777003b911f02b19b16a456b,Philippines,2-Mar-19,muscle,7.99
+7eea60360c2a9e569d33c8180a88c180,Philippines,2-Mar-19,trucks,11.99
+22289634c2979f24ba9522860f816676,CÃ´te dâ€™Ivoire,3-Mar-19,all_cars,24.99
+22289634c2979f24ba9522860f816676,CÃ´te dâ€™Ivoire,3-Mar-19,everything,29.99
+F520934F15BD4DC5B536B3900B1B1E89,Venezuela,3-Mar-19,bargain,4.99
+117117907418602d6a77a1775b0c9430,Morocco,3-Mar-19,best_buy,0.55
+117117907418602d6a77a1775b0c9430,Morocco,3-Mar-19,best_buy,0.55
+22289634c2979f24ba9522860f816676,CÃ´te dâ€™Ivoire,3-Mar-19,best_buy,19.99
+22289634c2979f24ba9522860f816676,CÃ´te dâ€™Ivoire,3-Mar-19,best_buy,19.99
+22289634c2979f24ba9522860f816676,CÃ´te dâ€™Ivoire,3-Mar-19,best_buy,19.99
+22289634c2979f24ba9522860f816676,CÃ´te dâ€™Ivoire,3-Mar-19,best_buy,19.99
+22289634c2979f24ba9522860f816676,CÃ´te dâ€™Ivoire,3-Mar-19,best_buy,19.99
+71DCC2207450417C9328CE37E5F3144F,United States,3-Mar-19,budget,1.99
+8B6D5B78466047459B0DD7FFA4062F51,United States,3-Mar-19,budget,1.99
+2F4D3B82CB514E02B6221F83FD946ED8,United States,3-Mar-19,budget,1.99
+2F4D3B82CB514E02B6221F83FD946ED8,United States,3-Mar-19,budget,1.99
+D9426F0091384401A403ED49D838D437,United States,3-Mar-19,budget,1.99
+D9426F0091384401A403ED49D838D437,United States,3-Mar-19,essential,0.99
+2EE98F77F1774F55B2DFC5F8A321E66D,United States,3-Mar-19,essential,0.99
+117117907418602d6a77a1775b0c9430,Morocco,3-Mar-19,hot_del,0.78
+22289634c2979f24ba9522860f816676,CÃ´te dâ€™Ivoire,3-Mar-19,steal,9.99
+f10e4a6a550d6c6f8ecd65d7fbc9328a,Egypt,4-Mar-19,911,11.99
+75e35e6a803bd4540977c6599bb10e71,India,4-Mar-19,all_cars,0.24
+629aa8dbdf3837e1aa3c8e3cc2bae37f,Venezuela,4-Mar-19,all_cars,24.99
+d2364bd8325aacad3f6b5ef604766eed,Trinidad & Tobago,4-Mar-19,all_cars,24.99
+c8bdfe3fcac57bed53fd30a6d9fa4de1,South Africa,4-Mar-19,everything,0.34
+37f95e4edc3481d649a5f12835385d21,Azerbaijan,4-Mar-19,everything,0.59
+629aa8dbdf3837e1aa3c8e3cc2bae37f,Venezuela,4-Mar-19,everything,29.99
+e9d84a1ec5d74368020497b65987da62,United States,4-Mar-19,everything,29.99
+f10e4a6a550d6c6f8ecd65d7fbc9328a,Egypt,4-Mar-19,everything,29.99
+86B48D8637D149E7A3ED8F1EE2171AFC,United States,4-Mar-19,everything,34.99
+98321525a45cd54783f7253e5b4aef13,Mozambique,4-Mar-19,bargain,4.99
+19936227991D4AA4B838214743C206ED,United States,4-Mar-19,bargain,4.99
+37f95e4edc3481d649a5f12835385d21,Azerbaijan,4-Mar-19,best_buy,0.22
+37f95e4edc3481d649a5f12835385d21,Azerbaijan,4-Mar-19,best_buy,0.22
+37f95e4edc3481d649a5f12835385d21,Azerbaijan,4-Mar-19,best_buy,0.22
+37f95e4edc3481d649a5f12835385d21,Azerbaijan,4-Mar-19,best_buy,0.22
+66087ffcd20a34483d297fa5f6aacbe9,Pakistan,4-Mar-19,best_buy,0.28
+4f6cddb7574026e3af36938e826c6337,Morocco,4-Mar-19,best_buy,0.31
+c8bdfe3fcac57bed53fd30a6d9fa4de1,South Africa,4-Mar-19,best_buy,0.4
+75e35e6a803bd4540977c6599bb10e71,India,4-Mar-19,best_buy,0.79
+629aa8dbdf3837e1aa3c8e3cc2bae37f,Venezuela,4-Mar-19,best_buy,19.99
+98321525a45cd54783f7253e5b4aef13,Mozambique,4-Mar-19,best_buy,19.99
+86B48D8637D149E7A3ED8F1EE2171AFC,United States,4-Mar-19,best_buy,19.99
+86B48D8637D149E7A3ED8F1EE2171AFC,United States,4-Mar-19,best_buy,19.99
+86B48D8637D149E7A3ED8F1EE2171AFC,United States,4-Mar-19,best_buy,19.99
+e9d84a1ec5d74368020497b65987da62,United States,4-Mar-19,best_buy,19.99
+f10e4a6a550d6c6f8ecd65d7fbc9328a,Egypt,4-Mar-19,best_buy,19.99
+f10e4a6a550d6c6f8ecd65d7fbc9328a,Egypt,4-Mar-19,best_buy,19.99
+c8bdfe3fcac57bed53fd30a6d9fa4de1,South Africa,4-Mar-19,budget,0.37
+66087ffcd20a34483d297fa5f6aacbe9,Pakistan,4-Mar-19,budget,0.82
+66087ffcd20a34483d297fa5f6aacbe9,Pakistan,4-Mar-19,budget,0.82
+26A0C733D1894F1BB1EB89DEC961F65F,United States,4-Mar-19,budget,1.99
+6100A94FE5604D0C960531D63BF70CEF,United States,4-Mar-19,budget,1.99
+6100A94FE5604D0C960531D63BF70CEF,United States,4-Mar-19,budget,1.99
+f10e4a6a550d6c6f8ecd65d7fbc9328a,Egypt,4-Mar-19,buses,3.99
+66087ffcd20a34483d297fa5f6aacbe9,Pakistan,4-Mar-19,concept,0.18
+f10e4a6a550d6c6f8ecd65d7fbc9328a,Egypt,4-Mar-19,concept,14.99
+f10e4a6a550d6c6f8ecd65d7fbc9328a,Egypt,4-Mar-19,crazy,3.99
+98321525a45cd54783f7253e5b4aef13,Mozambique,4-Mar-19,designer,2.99
+f10e4a6a550d6c6f8ecd65d7fbc9328a,Egypt,4-Mar-19,designer,2.99
+66087ffcd20a34483d297fa5f6aacbe9,Pakistan,4-Mar-19,essential,0.73
+6100A94FE5604D0C960531D63BF70CEF,United States,4-Mar-19,essential,0.99
+9C2D72D81CBD418796191BC9C3E5B5CE,United States,4-Mar-19,essential,0.99
+f10e4a6a550d6c6f8ecd65d7fbc9328a,Egypt,4-Mar-19,hatchback,1.99
+5115497be9afad9b6c7d82a8e19f9be8,India,4-Mar-19,hot_del,0.52
+5115497be9afad9b6c7d82a8e19f9be8,India,4-Mar-19,hot_del,0.52
+86B48D8637D149E7A3ED8F1EE2171AFC,United States,4-Mar-19,hot_del,14.99
+629aa8dbdf3837e1aa3c8e3cc2bae37f,Venezuela,4-Mar-19,muscle,7.99
+f10e4a6a550d6c6f8ecd65d7fbc9328a,Egypt,4-Mar-19,muscle,7.99
+f10e4a6a550d6c6f8ecd65d7fbc9328a,Egypt,4-Mar-19,sedan,5.99
+66087ffcd20a34483d297fa5f6aacbe9,Pakistan,4-Mar-19,sports,0.25
+f10e4a6a550d6c6f8ecd65d7fbc9328a,Egypt,4-Mar-19,sports,19.99
+f10e4a6a550d6c6f8ecd65d7fbc9328a,Egypt,4-Mar-19,SUV,9.99
+f10e4a6a550d6c6f8ecd65d7fbc9328a,Egypt,4-Mar-19,trucks,11.99
+f10e4a6a550d6c6f8ecd65d7fbc9328a,Egypt,4-Mar-19,vintage,5.99
+099926a76ad18af9a53549ee1bd5e896,India,5-Mar-19,all_cars,0.35
+099926a76ad18af9a53549ee1bd5e896,India,5-Mar-19,bargain,0.34
+099926a76ad18af9a53549ee1bd5e896,India,5-Mar-19,bargain,0.34
+099926a76ad18af9a53549ee1bd5e896,India,5-Mar-19,bargain,0.34
+099926a76ad18af9a53549ee1bd5e896,India,5-Mar-19,best_buy,0.75
+cc271c848673316841598cc58d3d6678,South Africa,5-Mar-19,best_buy,19.99
+cc271c848673316841598cc58d3d6678,South Africa,5-Mar-19,best_buy,19.99
+cc271c848673316841598cc58d3d6678,South Africa,5-Mar-19,best_buy,19.99
+cc271c848673316841598cc58d3d6678,South Africa,5-Mar-19,best_buy,19.99
+cc271c848673316841598cc58d3d6678,South Africa,5-Mar-19,best_buy,19.99
+cc271c848673316841598cc58d3d6678,South Africa,5-Mar-19,best_buy,19.99
+cc271c848673316841598cc58d3d6678,South Africa,5-Mar-19,best_buy,19.99
+cc271c848673316841598cc58d3d6678,South Africa,5-Mar-19,best_buy,19.99
+099926a76ad18af9a53549ee1bd5e896,India,5-Mar-19,budget,0.61
+099926a76ad18af9a53549ee1bd5e896,India,5-Mar-19,budget,0.61
+099926a76ad18af9a53549ee1bd5e896,India,5-Mar-19,budget,0.61
+65B9EC9AC2FC403FA204440F344E74DC,United States,5-Mar-19,budget,1.99
+09C0DE99FB5F45DFB7E006869B4C210E,United States,5-Mar-19,essential,0.99
+cc271c848673316841598cc58d3d6678,South Africa,5-Mar-19,hot_del,14.99
+cc271c848673316841598cc58d3d6678,South Africa,5-Mar-19,hot_del,14.99
+cc271c848673316841598cc58d3d6678,South Africa,5-Mar-19,hot_del,14.99
+cc271c848673316841598cc58d3d6678,South Africa,5-Mar-19,hot_del,14.99
+cc271c848673316841598cc58d3d6678,South Africa,5-Mar-19,hot_del,14.99
+cc271c848673316841598cc58d3d6678,South Africa,5-Mar-19,hot_del,14.99
+cc271c848673316841598cc58d3d6678,South Africa,5-Mar-19,steal,9.99
+cc271c848673316841598cc58d3d6678,South Africa,5-Mar-19,steal,9.99
+099926a76ad18af9a53549ee1bd5e896,India,5-Mar-19,SUV,0.8
+b774584556c6737e546fe7c59aa18730,Nicaragua,6-Mar-19,everything,29.99
+315AE6915D064D278BF49C309130A5D2,United States,6-Mar-19,bargain,4.99
+C188FE5157BC433D80E908A09DC356D4,United States,6-Mar-19,bargain,4.99
+C188FE5157BC433D80E908A09DC356D4,United States,6-Mar-19,essential,0.99
+de3ef8c75e319cfa568a8cc833a3e9b2,Indonesia,7-Mar-19,911,11.99
+767918c9ebd01b23a499d92fc0184934,Mexico,7-Mar-19,all_cars,0.69
+de3ef8c75e319cfa568a8cc833a3e9b2,Indonesia,7-Mar-19,all_cars,24.99
+767918c9ebd01b23a499d92fc0184934,Mexico,7-Mar-19,everything,0.37
+efd106d25d97aeb02c32491834a8c950,Brazil,7-Mar-19,everything,0.73
+3d414f26d7e4f8e3cf82410e903db625,Guatemala,7-Mar-19,everything,29.99
+03d00288f4f2de5fd9bc46f0def4b894,Serbia,7-Mar-19,everything,29.99
+de3ef8c75e319cfa568a8cc833a3e9b2,Indonesia,7-Mar-19,everything,29.99
+6B210C0E3E574871A7E4773D83D4118F,United States,7-Mar-19,everything,34.99
+28BC845DF78D4C52A29E21255DED8273,United States,7-Mar-19,everything,34.99
+66DE2FDE67504D02827532AE58314426,United States,7-Mar-19,everything,34.99
+efd106d25d97aeb02c32491834a8c950,Brazil,7-Mar-19,bargain,0.33
+efd106d25d97aeb02c32491834a8c950,Brazil,7-Mar-19,bargain,0.33
+efd106d25d97aeb02c32491834a8c950,Brazil,7-Mar-19,bargain,0.33
+efd106d25d97aeb02c32491834a8c950,Brazil,7-Mar-19,bargain,0.33
+efd106d25d97aeb02c32491834a8c950,Brazil,7-Mar-19,bargain,0.33
+efd106d25d97aeb02c32491834a8c950,Brazil,7-Mar-19,best_buy,0.21
+efd106d25d97aeb02c32491834a8c950,Brazil,7-Mar-19,best_buy,0.21
+efd106d25d97aeb02c32491834a8c950,Brazil,7-Mar-19,best_buy,0.21
+efd106d25d97aeb02c32491834a8c950,Brazil,7-Mar-19,best_buy,0.21
+efd106d25d97aeb02c32491834a8c950,Brazil,7-Mar-19,best_buy,0.21
+efd106d25d97aeb02c32491834a8c950,Brazil,7-Mar-19,best_buy,0.21
+efd106d25d97aeb02c32491834a8c950,Brazil,7-Mar-19,best_buy,0.21
+efd106d25d97aeb02c32491834a8c950,Brazil,7-Mar-19,best_buy,0.21
+efd106d25d97aeb02c32491834a8c950,Brazil,7-Mar-19,best_buy,0.21
+efd106d25d97aeb02c32491834a8c950,Brazil,7-Mar-19,best_buy,0.21
+efd106d25d97aeb02c32491834a8c950,Brazil,7-Mar-19,best_buy,0.21
+efd106d25d97aeb02c32491834a8c950,Brazil,7-Mar-19,best_buy,0.21
+4140a426711e0b34c0e57149a418410e,Egypt,7-Mar-19,best_buy,0.22
+4140a426711e0b34c0e57149a418410e,Egypt,7-Mar-19,best_buy,0.22
+4140a426711e0b34c0e57149a418410e,Egypt,7-Mar-19,best_buy,0.22
+de3ef8c75e319cfa568a8cc833a3e9b2,Indonesia,7-Mar-19,best_buy,0.38
+3d414f26d7e4f8e3cf82410e903db625,Guatemala,7-Mar-19,best_buy,19.99
+3d414f26d7e4f8e3cf82410e903db625,Guatemala,7-Mar-19,best_buy,19.99
+3d414f26d7e4f8e3cf82410e903db625,Guatemala,7-Mar-19,best_buy,19.99
+3d414f26d7e4f8e3cf82410e903db625,Guatemala,7-Mar-19,best_buy,19.99
+de3ef8c75e319cfa568a8cc833a3e9b2,Indonesia,7-Mar-19,best_buy,19.99
+de3ef8c75e319cfa568a8cc833a3e9b2,Indonesia,7-Mar-19,best_buy,19.99
+de3ef8c75e319cfa568a8cc833a3e9b2,Indonesia,7-Mar-19,best_buy,19.99
+de3ef8c75e319cfa568a8cc833a3e9b2,Indonesia,7-Mar-19,best_buy,19.99
+de3ef8c75e319cfa568a8cc833a3e9b2,Indonesia,7-Mar-19,best_buy,19.99
+de3ef8c75e319cfa568a8cc833a3e9b2,Indonesia,7-Mar-19,best_buy,19.99
+66DE2FDE67504D02827532AE58314426,United States,7-Mar-19,best_buy,19.99
+de3ef8c75e319cfa568a8cc833a3e9b2,Indonesia,7-Mar-19,buses,3.99
+4140a426711e0b34c0e57149a418410e,Egypt,7-Mar-19,crazy,0.39
+66DE2FDE67504D02827532AE58314426,United States,7-Mar-19,essential,0.99
+3d414f26d7e4f8e3cf82410e903db625,Guatemala,7-Mar-19,hot_del,14.99
+3d414f26d7e4f8e3cf82410e903db625,Guatemala,7-Mar-19,hot_del,14.99
+3d414f26d7e4f8e3cf82410e903db625,Guatemala,7-Mar-19,hot_del,14.99
+e985ae54f22f3ab8a607a37061347aeb,Colombia,7-Mar-19,trucks,11.99
+ddb4add545fd81b92e2bfb6321f61ddc,Morocco,8-Mar-19,911,11.99
+ddb4add545fd81b92e2bfb6321f61ddc,Morocco,8-Mar-19,all_cars,24.99
+0dd7f175f6be167f5971bdb2d2a41303,Hungary,8-Mar-19,everything,29.99
+ddb4add545fd81b92e2bfb6321f61ddc,Morocco,8-Mar-19,bargain,4.99
+ddb4add545fd81b92e2bfb6321f61ddc,Morocco,8-Mar-19,bargain,4.99
+ddb4add545fd81b92e2bfb6321f61ddc,Morocco,8-Mar-19,bargain,4.99
+0dd7f175f6be167f5971bdb2d2a41303,Hungary,8-Mar-19,best_buy,19.99
+0dd7f175f6be167f5971bdb2d2a41303,Hungary,8-Mar-19,best_buy,19.99
+0dd7f175f6be167f5971bdb2d2a41303,Hungary,8-Mar-19,best_buy,19.99
+ddb4add545fd81b92e2bfb6321f61ddc,Morocco,8-Mar-19,budget,1.99
+ddb4add545fd81b92e2bfb6321f61ddc,Morocco,8-Mar-19,crazy,3.99
+ddb4add545fd81b92e2bfb6321f61ddc,Morocco,8-Mar-19,essential,0.99
+5f00443b3e64123c61563095699a7dea,United States,8-Mar-19,steal,9.99
+ddb4add545fd81b92e2bfb6321f61ddc,Morocco,8-Mar-19,steal,9.99
+659bc065604e3fbcdfa6454a41444f76,United Kingdom,9-Mar-19,911,0.39
+FB66F8112E604F14808F6F470670B3F7,United States,9-Mar-19,everything,34.99
+0E1F9202C2DE4F64BC38E17A4F295623,United States,9-Mar-19,budget,1.99
+3C54B97054F3426C9F34024948BC9AC0,Israel,9-Mar-19,essential,0.99
+d48f7f34b9ef7cd82d6f0e089ad468f8,Philippines,10-Mar-19,all_cars,24.99
+6d1b41a449c3ffae7ab86d4a1ea7e75d,Indonesia,10-Mar-19,all_cars,24.99
+2f1efb0e4772545808e173a166daca83,Canada,10-Mar-19,everything,0.52
+a0ae5c4d70745514ae71f81eda8923fa,Brazil,10-Mar-19,everything,0.94
+d48f7f34b9ef7cd82d6f0e089ad468f8,Philippines,10-Mar-19,everything,29.99
+6309F477B0FC4D02B646D6DB991A2B03,United States,10-Mar-19,bargain,4.99
+8e0fd65809ba985dff0c6a59e2227c1d,United States,10-Mar-19,bargain,4.99
+C9D10636838D483DB47964C8FC8E3000,United States,10-Mar-19,bargain,4.99
+C9D10636838D483DB47964C8FC8E3000,United States,10-Mar-19,bargain,4.99
+a0ae5c4d70745514ae71f81eda8923fa,Brazil,10-Mar-19,best_buy,0.3
+a0ae5c4d70745514ae71f81eda8923fa,Brazil,10-Mar-19,best_buy,0.3
+a0ae5c4d70745514ae71f81eda8923fa,Brazil,10-Mar-19,best_buy,0.3
+a0ae5c4d70745514ae71f81eda8923fa,Brazil,10-Mar-19,best_buy,0.3
+a0ae5c4d70745514ae71f81eda8923fa,Brazil,10-Mar-19,best_buy,0.3
+a0ae5c4d70745514ae71f81eda8923fa,Brazil,10-Mar-19,best_buy,0.3
+a0ae5c4d70745514ae71f81eda8923fa,Brazil,10-Mar-19,best_buy,0.3
+a0ae5c4d70745514ae71f81eda8923fa,Brazil,10-Mar-19,best_buy,0.3
+2f1efb0e4772545808e173a166daca83,Canada,10-Mar-19,best_buy,0.45
+67d9ecf7226ac6cfa57d4dd6d138c644,United States,10-Mar-19,best_buy,0.5
+67d9ecf7226ac6cfa57d4dd6d138c644,United States,10-Mar-19,best_buy,0.5
+d48f7f34b9ef7cd82d6f0e089ad468f8,Philippines,10-Mar-19,best_buy,19.99
+d48f7f34b9ef7cd82d6f0e089ad468f8,Philippines,10-Mar-19,best_buy,19.99
+6d1b41a449c3ffae7ab86d4a1ea7e75d,Indonesia,10-Mar-19,best_buy,19.99
+6d1b41a449c3ffae7ab86d4a1ea7e75d,Indonesia,10-Mar-19,budget,1.99
+A16A11286AC34D61A234130FEEB3FF92,United States,10-Mar-19,budget,1.99
+d48f7f34b9ef7cd82d6f0e089ad468f8,Philippines,10-Mar-19,buses,3.99
+6d1b41a449c3ffae7ab86d4a1ea7e75d,Indonesia,10-Mar-19,concept,14.99
+67d9ecf7226ac6cfa57d4dd6d138c644,United States,10-Mar-19,designer,0.56
+d48f7f34b9ef7cd82d6f0e089ad468f8,Philippines,10-Mar-19,designer,2.99
+a0ae5c4d70745514ae71f81eda8923fa,Brazil,10-Mar-19,essential,0.4
+718EE6B48613476993B97527006F3DE3,United States,10-Mar-19,essential,0.99
+d48f7f34b9ef7cd82d6f0e089ad468f8,Philippines,10-Mar-19,hatchback,1.99
+6d1b41a449c3ffae7ab86d4a1ea7e75d,Indonesia,10-Mar-19,hot_del,14.99
+d48f7f34b9ef7cd82d6f0e089ad468f8,Philippines,10-Mar-19,sports,19.99
+45BA0A8CA3B44461BE0BE9E023529BCD,United States,10-Mar-19,steal,9.99
+6d1b41a449c3ffae7ab86d4a1ea7e75d,Indonesia,10-Mar-19,steal,9.99
+6d1b41a449c3ffae7ab86d4a1ea7e75d,Indonesia,10-Mar-19,trucks,11.99
+d48f7f34b9ef7cd82d6f0e089ad468f8,Philippines,10-Mar-19,vintage,5.99
+239c7f389f05edeb7774b76b0f4c96be,Italy,11-Mar-19,911,11.99
+bb076761225f589aabfc77b21a3e793d,Argentina,11-Mar-19,all_cars,24.99
+8d4ccdcbfa6e773147baa964a22b5c91,Russia,11-Mar-19,everything,29.99
+239c7f389f05edeb7774b76b0f4c96be,Italy,11-Mar-19,everything,29.99
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,everything,29.99
+3F546CB3462F407B9801199586AC8FF3,United States,11-Mar-19,everything,34.99
+D5F5EF8955854D5E8BC657BEC1D43F0C,United States,11-Mar-19,everything,34.99
+4C9383B5C00E4BCBBDF7ED274C5FD264,United States,11-Mar-19,bargain,4.99
+18a4c243ae01296083352a398ef6cd30,United States,11-Mar-19,best_buy,0.18
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,best_buy,0.71
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,best_buy,0.71
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,best_buy,0.71
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,best_buy,0.71
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,best_buy,0.71
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,best_buy,0.71
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,best_buy,0.71
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,best_buy,0.71
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,best_buy,0.71
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,best_buy,0.71
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,best_buy,0.71
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,best_buy,0.71
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,best_buy,0.71
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,best_buy,0.71
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,best_buy,0.71
+8d4ccdcbfa6e773147baa964a22b5c91,Russia,11-Mar-19,best_buy,19.99
+30B43EA256A04B36806E77FF3EA1DF43,United States,11-Mar-19,best_buy,19.99
+25ff3bc04b474e377d08a02e0704061f,Uzbekistan,11-Mar-19,best_buy,19.99
+bb076761225f589aabfc77b21a3e793d,Argentina,11-Mar-19,best_buy,19.99
+bb076761225f589aabfc77b21a3e793d,Argentina,11-Mar-19,best_buy,19.99
+bb076761225f589aabfc77b21a3e793d,Argentina,11-Mar-19,best_buy,19.99
+D5F5EF8955854D5E8BC657BEC1D43F0C,United States,11-Mar-19,best_buy,19.99
+2AF6C869687144B6A94B4ED881115001,United States,11-Mar-19,best_buy,19.99
+239c7f389f05edeb7774b76b0f4c96be,Italy,11-Mar-19,budget,1.99
+239c7f389f05edeb7774b76b0f4c96be,Italy,11-Mar-19,budget,1.99
+239c7f389f05edeb7774b76b0f4c96be,Italy,11-Mar-19,budget,1.99
+239c7f389f05edeb7774b76b0f4c96be,Italy,11-Mar-19,budget,1.99
+239c7f389f05edeb7774b76b0f4c96be,Italy,11-Mar-19,budget,1.99
+239c7f389f05edeb7774b76b0f4c96be,Italy,11-Mar-19,budget,1.99
+bb076761225f589aabfc77b21a3e793d,Argentina,11-Mar-19,budget,1.99
+01858C05F07E45FDB0F05842C40754C3,United States,11-Mar-19,budget,1.99
+3F546CB3462F407B9801199586AC8FF3,United States,11-Mar-19,essential,0.99
+25ff3bc04b474e377d08a02e0704061f,Uzbekistan,11-Mar-19,essential,0.99
+bb076761225f589aabfc77b21a3e793d,Argentina,11-Mar-19,essential,0.99
+C1FD45E4839D4B25851EE49C1035120D,United States,11-Mar-19,essential,0.99
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,hot_del,0.2
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,hot_del,0.2
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,hot_del,0.2
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,hot_del,0.2
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,hot_del,0.2
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,hot_del,0.2
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,hot_del,0.2
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,hot_del,0.2
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,hot_del,0.2
+a3675c20e78e9fdc3d339987ed07c0f6,United States,11-Mar-19,hot_del,14.99
+C1FD45E4839D4B25851EE49C1035120D,United States,11-Mar-19,steal,9.99
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,911,0.47
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,all_cars,0.48
+f378ef6e2eed73e027a0605f6d638b6e,India,12-Mar-19,all_cars,0.73
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,all_cars,24.99
+377e24af6b07c28f4a3c4dbe782c4c1b,Chile,12-Mar-19,all_cars,24.99
+a1eb08270d7fdd78824a2db33d1ee7c2,Philippines,12-Mar-19,all_cars,24.99
+f378ef6e2eed73e027a0605f6d638b6e,India,12-Mar-19,everything,0.6
+31f9369fc0b4b210cb401d15e7c91642,Belgium,12-Mar-19,everything,0.66
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,everything,29.99
+f863e95216740519715a6a71b2d99497,India,12-Mar-19,everything,29.99
+0b3b4182864b50948531c64409a76201,Myanmar (Burma),12-Mar-19,everything,29.99
+93ee6f99622971642ada29f35827ff02,India,12-Mar-19,bargain,4.99
+f378ef6e2eed73e027a0605f6d638b6e,India,12-Mar-19,best_buy,0.15
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,best_buy,0.6
+31f9369fc0b4b210cb401d15e7c91642,Belgium,12-Mar-19,best_buy,0.68
+31f9369fc0b4b210cb401d15e7c91642,Belgium,12-Mar-19,best_buy,0.68
+31f9369fc0b4b210cb401d15e7c91642,Belgium,12-Mar-19,best_buy,0.68
+31f9369fc0b4b210cb401d15e7c91642,Belgium,12-Mar-19,best_buy,0.68
+31f9369fc0b4b210cb401d15e7c91642,Belgium,12-Mar-19,best_buy,0.68
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,best_buy,19.99
+d80e80c0d51e88d296c434e5932b3442,United States,12-Mar-19,best_buy,19.99
+d80e80c0d51e88d296c434e5932b3442,United States,12-Mar-19,best_buy,19.99
+d80e80c0d51e88d296c434e5932b3442,United States,12-Mar-19,best_buy,19.99
+d80e80c0d51e88d296c434e5932b3442,United States,12-Mar-19,best_buy,19.99
+d80e80c0d51e88d296c434e5932b3442,United States,12-Mar-19,best_buy,19.99
+673d07d31b85c1f2052484d6a13fcb4e,United States,12-Mar-19,best_buy,19.99
+f863e95216740519715a6a71b2d99497,India,12-Mar-19,best_buy,19.99
+f863e95216740519715a6a71b2d99497,India,12-Mar-19,best_buy,19.99
+f863e95216740519715a6a71b2d99497,India,12-Mar-19,best_buy,19.99
+f863e95216740519715a6a71b2d99497,India,12-Mar-19,best_buy,19.99
+f863e95216740519715a6a71b2d99497,India,12-Mar-19,best_buy,19.99
+f863e95216740519715a6a71b2d99497,India,12-Mar-19,best_buy,19.99
+f863e95216740519715a6a71b2d99497,India,12-Mar-19,best_buy,19.99
+377e24af6b07c28f4a3c4dbe782c4c1b,Chile,12-Mar-19,best_buy,19.99
+a1eb08270d7fdd78824a2db33d1ee7c2,Philippines,12-Mar-19,best_buy,19.99
+31f9369fc0b4b210cb401d15e7c91642,Belgium,12-Mar-19,budget,0.42
+a1eb08270d7fdd78824a2db33d1ee7c2,Philippines,12-Mar-19,budget,1.99
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,buses,0.47
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,concept,0.91
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,crazy,0.7
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,designer,0.78
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,essential,0.99
+0269E5F6AFD040019F3A04B6C04A6E9B,United States,12-Mar-19,essential,0.99
+673d07d31b85c1f2052484d6a13fcb4e,United States,12-Mar-19,essential,0.99
+A0462923E2F04D6CA24B5AD64B6BB2EA,United States,12-Mar-19,essential,0.99
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,hatchback,0.63
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,hot_del,0.36
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,hot_del,0.36
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,hot_del,0.36
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,hot_del,0.36
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,hot_del,0.36
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,hot_del,0.36
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,hot_del,0.36
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,hot_del,0.36
+711aec0ed78f27b1016212e2b621fddc,Togo,12-Mar-19,hot_del,14.99
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,sedan,0.66
+8b36b80149936378a5fba3fad5490831,United States,12-Mar-19,sedan,5.99
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,sports,0.24
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,steal,0.83
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,trucks,0.17
+f3c39249994c16a1bc69ed094df69da9,Poland,12-Mar-19,vintage,0.9
+82ff87f79ae5b53d5f57a763b970a9ea,India,13-Mar-19,911,0.36
+72a247e7062eb48c3d9ab94e7647264a,United States,13-Mar-19,911,11.99
+e208d2e649263c385cc2710d8a77b57b,Nigeria,13-Mar-19,everything,0
+3e9b34be4b7e7f2619cc49da7caaa853,India,13-Mar-19,everything,0.53
+82ff87f79ae5b53d5f57a763b970a9ea,India,13-Mar-19,everything,0.61
+B4A5B5B5EAB748169EACC9515919A853,Saudi Arabia,13-Mar-19,everything,34.99
+c28b93a216d06e7e69098d1d5b6bb9a9,Romania,13-Mar-19,best_buy,0.22
+c28b93a216d06e7e69098d1d5b6bb9a9,Romania,13-Mar-19,best_buy,0.22
+3e9b34be4b7e7f2619cc49da7caaa853,India,13-Mar-19,best_buy,0.29
+3e9b34be4b7e7f2619cc49da7caaa853,India,13-Mar-19,best_buy,0.29
+3e9b34be4b7e7f2619cc49da7caaa853,India,13-Mar-19,best_buy,0.29
+e208d2e649263c385cc2710d8a77b57b,Nigeria,13-Mar-19,best_buy,0.6
+e208d2e649263c385cc2710d8a77b57b,Nigeria,13-Mar-19,best_buy,0.6
+67f05e8a1bacae3c9c2dd1edfe2982b1,Brazil,13-Mar-19,best_buy,0.75
+7c7de879b8cf04d7ee57717cec1d1f22,Saudi Arabia,13-Mar-19,best_buy,0.94
+7c7de879b8cf04d7ee57717cec1d1f22,Saudi Arabia,13-Mar-19,best_buy,0.94
+7c7de879b8cf04d7ee57717cec1d1f22,Saudi Arabia,13-Mar-19,best_buy,0.94
+7c7de879b8cf04d7ee57717cec1d1f22,Saudi Arabia,13-Mar-19,best_buy,0.94
+7c7de879b8cf04d7ee57717cec1d1f22,Saudi Arabia,13-Mar-19,best_buy,0.94
+7c7de879b8cf04d7ee57717cec1d1f22,Saudi Arabia,13-Mar-19,best_buy,0.94
+B4A5B5B5EAB748169EACC9515919A853,Saudi Arabia,13-Mar-19,best_buy,19.99
+e2ccbcea34c5217d8eceac64fdf5f4ee,Brazil,13-Mar-19,budget,0.44
+e2ccbcea34c5217d8eceac64fdf5f4ee,Brazil,13-Mar-19,budget,0.44
+e2ccbcea34c5217d8eceac64fdf5f4ee,Brazil,13-Mar-19,budget,0.44
+e2ccbcea34c5217d8eceac64fdf5f4ee,Brazil,13-Mar-19,budget,0.44
+e2ccbcea34c5217d8eceac64fdf5f4ee,Brazil,13-Mar-19,budget,0.44
+e2ccbcea34c5217d8eceac64fdf5f4ee,Brazil,13-Mar-19,budget,0.44
+e2ccbcea34c5217d8eceac64fdf5f4ee,Brazil,13-Mar-19,budget,0.44
+e2ccbcea34c5217d8eceac64fdf5f4ee,Brazil,13-Mar-19,budget,0.44
+e2ccbcea34c5217d8eceac64fdf5f4ee,Brazil,13-Mar-19,budget,0.44
+e2ccbcea34c5217d8eceac64fdf5f4ee,Brazil,13-Mar-19,budget,0.44
+e2ccbcea34c5217d8eceac64fdf5f4ee,Brazil,13-Mar-19,budget,0.44
+82ff87f79ae5b53d5f57a763b970a9ea,India,13-Mar-19,budget,0.83
+82ff87f79ae5b53d5f57a763b970a9ea,India,13-Mar-19,budget,0.83
+82ff87f79ae5b53d5f57a763b970a9ea,India,13-Mar-19,budget,0.83
+82ff87f79ae5b53d5f57a763b970a9ea,India,13-Mar-19,budget,0.83
+82ff87f79ae5b53d5f57a763b970a9ea,India,13-Mar-19,budget,0.83
+82ff87f79ae5b53d5f57a763b970a9ea,India,13-Mar-19,budget,0.83
+3e9b34be4b7e7f2619cc49da7caaa853,India,13-Mar-19,budget,0.93
+B6C09F010A814DB3B0615F3BF6F0BA09,United States,13-Mar-19,budget,1.99
+976325BAA29A44F499299837ED6C4A41,United States,13-Mar-19,budget,1.99
+976325BAA29A44F499299837ED6C4A41,United States,13-Mar-19,budget,1.99
+82ff87f79ae5b53d5f57a763b970a9ea,India,13-Mar-19,buses,0.21
+67f05e8a1bacae3c9c2dd1edfe2982b1,Brazil,13-Mar-19,buses,0.64
+82ff87f79ae5b53d5f57a763b970a9ea,India,13-Mar-19,concept,0
+67f05e8a1bacae3c9c2dd1edfe2982b1,Brazil,13-Mar-19,crazy,0.21
+82ff87f79ae5b53d5f57a763b970a9ea,India,13-Mar-19,crazy,0.79
+82ff87f79ae5b53d5f57a763b970a9ea,India,13-Mar-19,designer,0.39
+c28b93a216d06e7e69098d1d5b6bb9a9,Romania,13-Mar-19,essential,0.17
+82ff87f79ae5b53d5f57a763b970a9ea,India,13-Mar-19,essential,0.88
+B4A5B5B5EAB748169EACC9515919A853,Saudi Arabia,13-Mar-19,essential,0.99
+67f05e8a1bacae3c9c2dd1edfe2982b1,Brazil,13-Mar-19,hot_del,0.6
+67f05e8a1bacae3c9c2dd1edfe2982b1,Brazil,13-Mar-19,hot_del,0.6
+82ff87f79ae5b53d5f57a763b970a9ea,India,13-Mar-19,sedan,0.34
+82ff87f79ae5b53d5f57a763b970a9ea,India,13-Mar-19,sports,0.62
+e2ccbcea34c5217d8eceac64fdf5f4ee,Brazil,13-Mar-19,sports,0.68
+82ff87f79ae5b53d5f57a763b970a9ea,India,13-Mar-19,trucks,0.93
+72a247e7062eb48c3d9ab94e7647264a,United States,13-Mar-19,trucks,11.99
+7c7de879b8cf04d7ee57717cec1d1f22,Saudi Arabia,13-Mar-19,vintage,0.12
+82ff87f79ae5b53d5f57a763b970a9ea,India,13-Mar-19,vintage,0.73
+6bfde3e26a0f57427dbf9045d2850e48,Cyprus,14-Mar-19,everything,0.6
+e97471922df34edc1a2618e26408e10d,Morocco,14-Mar-19,everything,29.99
+6bfde3e26a0f57427dbf9045d2850e48,Cyprus,14-Mar-19,best_buy,0.2
+6bfde3e26a0f57427dbf9045d2850e48,Cyprus,14-Mar-19,best_buy,0.2
+6bfde3e26a0f57427dbf9045d2850e48,Cyprus,14-Mar-19,best_buy,0.2
+6bfde3e26a0f57427dbf9045d2850e48,Cyprus,14-Mar-19,best_buy,0.2
+6bfde3e26a0f57427dbf9045d2850e48,Cyprus,14-Mar-19,best_buy,0.2
+6bfde3e26a0f57427dbf9045d2850e48,Cyprus,14-Mar-19,best_buy,0.2
+6bfde3e26a0f57427dbf9045d2850e48,Cyprus,14-Mar-19,best_buy,0.2
+6bfde3e26a0f57427dbf9045d2850e48,Cyprus,14-Mar-19,best_buy,0.2
+6bfde3e26a0f57427dbf9045d2850e48,Cyprus,14-Mar-19,best_buy,0.2
+6bfde3e26a0f57427dbf9045d2850e48,Cyprus,14-Mar-19,best_buy,0.2
+6bfde3e26a0f57427dbf9045d2850e48,Cyprus,14-Mar-19,best_buy,0.2
+6bfde3e26a0f57427dbf9045d2850e48,Cyprus,14-Mar-19,best_buy,0.2
+6bfde3e26a0f57427dbf9045d2850e48,Cyprus,14-Mar-19,best_buy,0.2
+6bfde3e26a0f57427dbf9045d2850e48,Cyprus,14-Mar-19,best_buy,0.2
+6bfde3e26a0f57427dbf9045d2850e48,Cyprus,14-Mar-19,essential,0.62
+d5d67aea32982ac229ca5aa8b59a4eb7,Malaysia,16-Mar-19,everything,0.86
+d5d67aea32982ac229ca5aa8b59a4eb7,Malaysia,16-Mar-19,best_buy,0.78
+d5d67aea32982ac229ca5aa8b59a4eb7,Malaysia,16-Mar-19,best_buy,0.78
+d5d67aea32982ac229ca5aa8b59a4eb7,Malaysia,16-Mar-19,best_buy,0.78
+d5d67aea32982ac229ca5aa8b59a4eb7,Malaysia,16-Mar-19,best_buy,0.78
+d5d67aea32982ac229ca5aa8b59a4eb7,Malaysia,16-Mar-19,best_buy,0.78
+d5d67aea32982ac229ca5aa8b59a4eb7,Malaysia,16-Mar-19,best_buy,0.78
+4ee2f9d53be2bf98ac5c1f6eefc6fcbe,Azerbaijan,16-Mar-19,best_buy,0.87
+65c55977ad799ca4bd29661d9c33f9d0,United States,16-Mar-19,designer,2.99
+ecd6cad2046c1d7233dc976da525fd70,India,17-Mar-19,911,11.99
+ecd6cad2046c1d7233dc976da525fd70,India,17-Mar-19,all_cars,0.85
+ecd6cad2046c1d7233dc976da525fd70,India,17-Mar-19,everything,0.63
+ecd6cad2046c1d7233dc976da525fd70,India,17-Mar-19,best_buy,19.99
+ecd6cad2046c1d7233dc976da525fd70,India,17-Mar-19,best_buy,19.99
+ecd6cad2046c1d7233dc976da525fd70,India,17-Mar-19,best_buy,19.99
+ecd6cad2046c1d7233dc976da525fd70,India,17-Mar-19,buses,3.99
+ecd6cad2046c1d7233dc976da525fd70,India,17-Mar-19,concept,14.99
+ecd6cad2046c1d7233dc976da525fd70,India,17-Mar-19,crazy,3.99
+ecd6cad2046c1d7233dc976da525fd70,India,17-Mar-19,designer,2.99
+ecd6cad2046c1d7233dc976da525fd70,India,17-Mar-19,hatchback,1.99
+ecd6cad2046c1d7233dc976da525fd70,India,17-Mar-19,muscle,7.99
+ecd6cad2046c1d7233dc976da525fd70,India,17-Mar-19,sedan,5.99
+ecd6cad2046c1d7233dc976da525fd70,India,17-Mar-19,sports,19.99
+ecd6cad2046c1d7233dc976da525fd70,India,17-Mar-19,SUV,9.99
+ecd6cad2046c1d7233dc976da525fd70,India,17-Mar-19,trucks,11.99
+ecd6cad2046c1d7233dc976da525fd70,India,17-Mar-19,vintage,5.99
+ab6009aaaee4d1c888cc54340123b5ed,Albania,18-Mar-19,everything,29.99
+7FB9C2438E494616BAAB8230378E6020,United States,18-Mar-19,bargain,4.99
+ab6009aaaee4d1c888cc54340123b5ed,Albania,18-Mar-19,best_buy,19.99
+ab6009aaaee4d1c888cc54340123b5ed,Albania,18-Mar-19,best_buy,19.99
+ab6009aaaee4d1c888cc54340123b5ed,Albania,18-Mar-19,best_buy,19.99
+ab6009aaaee4d1c888cc54340123b5ed,Albania,18-Mar-19,best_buy,19.99
+ab6009aaaee4d1c888cc54340123b5ed,Albania,18-Mar-19,best_buy,19.99
+ab6009aaaee4d1c888cc54340123b5ed,Albania,18-Mar-19,best_buy,19.99
+29F2AA69D04442A98440772A60AC3D2C,United States,18-Mar-19,budget,1.99
+cc0cea2097d6f88085b14f1c44fa6563,Russia,20-Mar-19,911,11.99
+43be9906811907d7962dac07387780a8,Italy,20-Mar-19,all_cars,0.12
+90b1025c28099e71fb736c4a59804c70,Ghana,20-Mar-19,everything,29.99
+cc0cea2097d6f88085b14f1c44fa6563,Russia,20-Mar-19,everything,29.99
+90b1025c28099e71fb736c4a59804c70,Ghana,20-Mar-19,best_buy,19.99
+90b1025c28099e71fb736c4a59804c70,Ghana,20-Mar-19,best_buy,19.99
+a7e9b28370e47b4ceee222e1b9afc3fc,United States,20-Mar-19,budget,1.99
+cc0cea2097d6f88085b14f1c44fa6563,Russia,20-Mar-19,buses,3.99
+cc0cea2097d6f88085b14f1c44fa6563,Russia,20-Mar-19,concept,14.99
+cc0cea2097d6f88085b14f1c44fa6563,Russia,20-Mar-19,crazy,3.99
+cc0cea2097d6f88085b14f1c44fa6563,Russia,20-Mar-19,sports,19.99
+cc0cea2097d6f88085b14f1c44fa6563,Russia,20-Mar-19,SUV,9.99
+8c4dd3e5fc5d7d5573cfc59de208baa9,South Africa,22-Mar-19,best_buy,0.16
+8c4dd3e5fc5d7d5573cfc59de208baa9,South Africa,22-Mar-19,best_buy,0.16
+8F51617185224C5798DFB27BEACA2210,United States,22-Mar-19,budget,1.99
+8c4dd3e5fc5d7d5573cfc59de208baa9,South Africa,22-Mar-19,hot_del,0.12
+8c4dd3e5fc5d7d5573cfc59de208baa9,South Africa,22-Mar-19,hot_del,0.5
+8c4dd3e5fc5d7d5573cfc59de208baa9,South Africa,22-Mar-19,hot_del,0.5
+30ebbce8159217498224ffd2d9d79b7c,Philippines,22-Mar-19,hot_del,14.99
+30ebbce8159217498224ffd2d9d79b7c,Philippines,22-Mar-19,hot_del,14.99
+30ebbce8159217498224ffd2d9d79b7c,Philippines,22-Mar-19,hot_del,14.99
+30ebbce8159217498224ffd2d9d79b7c,Philippines,22-Mar-19,hot_del,14.99
+30ebbce8159217498224ffd2d9d79b7c,Philippines,22-Mar-19,hot_del,14.99
+30ebbce8159217498224ffd2d9d79b7c,Philippines,22-Mar-19,hot_del,14.99
+8c4dd3e5fc5d7d5573cfc59de208baa9,South Africa,22-Mar-19,steal,0.64
+8c4dd3e5fc5d7d5573cfc59de208baa9,South Africa,22-Mar-19,steal,0.71
+30ebbce8159217498224ffd2d9d79b7c,Philippines,22-Mar-19,steal,9.99
+30ebbce8159217498224ffd2d9d79b7c,Philippines,22-Mar-19,steal,9.99
+8a95e108865782d7d07c10bd649ea710,South Africa,23-Mar-19,all_cars,24.99
+f0c733669f4a128771d4b075d6dc471b,Malaysia,23-Mar-19,everything,29.99
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+80f3d77b78454cf36fc95ffb5d26d40a,Philippines,23-Mar-19,best_buy,0.35
+f0c733669f4a128771d4b075d6dc471b,Malaysia,23-Mar-19,best_buy,0.47
+1128b42111d60eeddea554bd3d425b68,India,23-Mar-19,best_buy,0.94
+1128b42111d60eeddea554bd3d425b68,India,23-Mar-19,best_buy,0.94
+1128b42111d60eeddea554bd3d425b68,India,23-Mar-19,best_buy,0.94
+f0c733669f4a128771d4b075d6dc471b,Malaysia,23-Mar-19,best_buy,19.99
+8a95e108865782d7d07c10bd649ea710,South Africa,23-Mar-19,best_buy,19.99
+BBC0B14A9CB44EEA88791A3F7641E6AC,United States,23-Mar-19,budget,1.99
+7B959468753D480B8C99870608FC97C2,United States,23-Mar-19,budget,1.99
+F53558879B624DCC98861FAA58D37F63,United States,23-Mar-19,budget,1.99
+68ef8dec4b4f31870395d4945a721e6f,Canada,23-Mar-19,essential,0.99
+5ac64546a7ee05fe9d0fc3b2b5956520,Brazil,24-Mar-19,911,0
+5ac64546a7ee05fe9d0fc3b2b5956520,Brazil,24-Mar-19,all_cars,0.42
+ebd15679d9a9e2f527c282cb4924f294,United Kingdom,24-Mar-19,all_cars,0.49
+6b76bc9d58b9b74a5b6f18b53f0b7e77,India,24-Mar-19,all_cars,0.96
+8ce659f95a0de26e030ca5567712813c,United States,24-Mar-19,all_cars,24.99
+5ac64546a7ee05fe9d0fc3b2b5956520,Brazil,24-Mar-19,everything,0.8
+2749bfae528b24551711891915a6407b,Mexico,24-Mar-19,everything,29.99
+8ce659f95a0de26e030ca5567712813c,United States,24-Mar-19,bargain,4.99
+F2017DD02FFE4B48A6BA31D005F276E5,United States,24-Mar-19,bargain,4.99
+ebd15679d9a9e2f527c282cb4924f294,United Kingdom,24-Mar-19,best_buy,0.25
+6b76bc9d58b9b74a5b6f18b53f0b7e77,India,24-Mar-19,best_buy,0.4
+6b76bc9d58b9b74a5b6f18b53f0b7e77,India,24-Mar-19,best_buy,0.4
+6b76bc9d58b9b74a5b6f18b53f0b7e77,India,24-Mar-19,best_buy,0.4
+6b76bc9d58b9b74a5b6f18b53f0b7e77,India,24-Mar-19,best_buy,0.4
+5ac64546a7ee05fe9d0fc3b2b5956520,Brazil,24-Mar-19,best_buy,0.91
+5ac64546a7ee05fe9d0fc3b2b5956520,Brazil,24-Mar-19,best_buy,0.91
+2749bfae528b24551711891915a6407b,Mexico,24-Mar-19,best_buy,19.99
+2749bfae528b24551711891915a6407b,Mexico,24-Mar-19,best_buy,19.99
+2749bfae528b24551711891915a6407b,Mexico,24-Mar-19,best_buy,19.99
+2749bfae528b24551711891915a6407b,Mexico,24-Mar-19,best_buy,19.99
+2749bfae528b24551711891915a6407b,Mexico,24-Mar-19,best_buy,19.99
+2749bfae528b24551711891915a6407b,Mexico,24-Mar-19,best_buy,19.99
+2749bfae528b24551711891915a6407b,Mexico,24-Mar-19,best_buy,19.99
+2749bfae528b24551711891915a6407b,Mexico,24-Mar-19,best_buy,19.99
+2749bfae528b24551711891915a6407b,Mexico,24-Mar-19,best_buy,19.99
+2749bfae528b24551711891915a6407b,Mexico,24-Mar-19,best_buy,19.99
+17BB0DD4EE3C4186A41A2FAB5E9BB3A2,United States,24-Mar-19,budget,1.99
+70829A97175A44DCBADE26CEDDAECC8F,United States,24-Mar-19,budget,1.99
+70829A97175A44DCBADE26CEDDAECC8F,United States,24-Mar-19,budget,1.99
+5ac64546a7ee05fe9d0fc3b2b5956520,Brazil,24-Mar-19,buses,0.6
+5ac64546a7ee05fe9d0fc3b2b5956520,Brazil,24-Mar-19,concept,0.39
+5ac64546a7ee05fe9d0fc3b2b5956520,Brazil,24-Mar-19,designer,0.34
+6b76bc9d58b9b74a5b6f18b53f0b7e77,India,24-Mar-19,essential,0.4
+5ac64546a7ee05fe9d0fc3b2b5956520,Brazil,24-Mar-19,hatchback,0.97
+5ac64546a7ee05fe9d0fc3b2b5956520,Brazil,24-Mar-19,muscle,0.78
+5ac64546a7ee05fe9d0fc3b2b5956520,Brazil,24-Mar-19,sedan,0.59
+5ac64546a7ee05fe9d0fc3b2b5956520,Brazil,24-Mar-19,sports,0
+5ac64546a7ee05fe9d0fc3b2b5956520,Brazil,24-Mar-19,SUV,0.16
+5ac64546a7ee05fe9d0fc3b2b5956520,Brazil,24-Mar-19,vintage,0.72
+1F03AFCF3AF04F5A8069BAC17EEBBD26,United States,25-Mar-19,bargain,4.99
+077CC1BB7BEC4FADA309029CFA82666D,United States,25-Mar-19,budget,1.99
+007D66906E864CDEB183D0E7EE311CDB,United States,25-Mar-19,essential,0.99
+679A7C3EC4F047DA89051B0F7E99C056,United States,25-Mar-19,essential,0.99
+dd96e07f46da37c25ceaed8449cdd296,Egypt,26-Mar-19,911,11.99
+0665e1b25752b9f76f0553b09ffab347,South Africa,26-Mar-19,all_cars,24.99
+b2fe17239e60dae7064f3ad8b6868417,United States,26-Mar-19,all_cars,24.99
+dd96e07f46da37c25ceaed8449cdd296,Egypt,26-Mar-19,all_cars,24.99
+32b669452701e475f16f3cffee381c3f,India,26-Mar-19,everything,0.14
+0665e1b25752b9f76f0553b09ffab347,South Africa,26-Mar-19,everything,29.99
+da1a0c417fef6f79fdf681edeb35439d,Russia,26-Mar-19,everything,29.99
+dd96e07f46da37c25ceaed8449cdd296,Egypt,26-Mar-19,everything,29.99
+565973465729d1d60c24df4e163b2da7,France,26-Mar-19,everything,29.99
+56fcbc249226a59bc8849f591a7da563,India,26-Mar-19,bargain,4.99
+56fcbc249226a59bc8849f591a7da563,India,26-Mar-19,bargain,4.99
+D5217DE608F04876845904BF872E39AE,United States,26-Mar-19,bargain,4.99
+edb76783fed8128db3ca683abef8258b,Dominican Republic,26-Mar-19,best_buy,0.92
+edb76783fed8128db3ca683abef8258b,Dominican Republic,26-Mar-19,best_buy,0.92
+edb76783fed8128db3ca683abef8258b,Dominican Republic,26-Mar-19,best_buy,0.92
+9215252d31505598b0bbb9d81d0264ef,Azerbaijan,26-Mar-19,best_buy,19.99
+9215252d31505598b0bbb9d81d0264ef,Azerbaijan,26-Mar-19,best_buy,19.99
+9215252d31505598b0bbb9d81d0264ef,Azerbaijan,26-Mar-19,best_buy,19.99
+0665e1b25752b9f76f0553b09ffab347,South Africa,26-Mar-19,best_buy,19.99
+0665e1b25752b9f76f0553b09ffab347,South Africa,26-Mar-19,best_buy,19.99
+0665e1b25752b9f76f0553b09ffab347,South Africa,26-Mar-19,best_buy,19.99
+0665e1b25752b9f76f0553b09ffab347,South Africa,26-Mar-19,best_buy,19.99
+da1a0c417fef6f79fdf681edeb35439d,Russia,26-Mar-19,best_buy,19.99
+da1a0c417fef6f79fdf681edeb35439d,Russia,26-Mar-19,best_buy,19.99
+da1a0c417fef6f79fdf681edeb35439d,Russia,26-Mar-19,best_buy,19.99
+da1a0c417fef6f79fdf681edeb35439d,Russia,26-Mar-19,best_buy,19.99
+da1a0c417fef6f79fdf681edeb35439d,Russia,26-Mar-19,best_buy,19.99
+da1a0c417fef6f79fdf681edeb35439d,Russia,26-Mar-19,best_buy,19.99
+da1a0c417fef6f79fdf681edeb35439d,Russia,26-Mar-19,best_buy,19.99
+dd96e07f46da37c25ceaed8449cdd296,Egypt,26-Mar-19,best_buy,19.99
+3388FCA35A7D47B8B92ADC213AD366CC,United States,26-Mar-19,budget,1.99
+b2fe17239e60dae7064f3ad8b6868417,United States,26-Mar-19,budget,1.99
+b2fe17239e60dae7064f3ad8b6868417,United States,26-Mar-19,budget,1.99
+da1a0c417fef6f79fdf681edeb35439d,Russia,26-Mar-19,budget,1.99
+da1a0c417fef6f79fdf681edeb35439d,Russia,26-Mar-19,budget,1.99
+da1a0c417fef6f79fdf681edeb35439d,Russia,26-Mar-19,budget,1.99
+da1a0c417fef6f79fdf681edeb35439d,Russia,26-Mar-19,budget,1.99
+8C8CDC5D3B7045BEA7E216125C3AFCB4,United States,26-Mar-19,budget,1.99
+56fcbc249226a59bc8849f591a7da563,India,26-Mar-19,budget,1.99
+56fcbc249226a59bc8849f591a7da563,India,26-Mar-19,budget,1.99
+56fcbc249226a59bc8849f591a7da563,India,26-Mar-19,budget,1.99
+56fcbc249226a59bc8849f591a7da563,India,26-Mar-19,budget,1.99
+dd96e07f46da37c25ceaed8449cdd296,Egypt,26-Mar-19,buses,3.99
+56fcbc249226a59bc8849f591a7da563,India,26-Mar-19,buses,3.99
+dd96e07f46da37c25ceaed8449cdd296,Egypt,26-Mar-19,concept,14.99
+56fcbc249226a59bc8849f591a7da563,India,26-Mar-19,concept,14.99
+dd96e07f46da37c25ceaed8449cdd296,Egypt,26-Mar-19,crazy,3.99
+56fcbc249226a59bc8849f591a7da563,India,26-Mar-19,crazy,3.99
+dd96e07f46da37c25ceaed8449cdd296,Egypt,26-Mar-19,designer,2.99
+56fcbc249226a59bc8849f591a7da563,India,26-Mar-19,designer,2.99
+0665e1b25752b9f76f0553b09ffab347,South Africa,26-Mar-19,essential,0.99
+da1a0c417fef6f79fdf681edeb35439d,Russia,26-Mar-19,essential,0.99
+E1F58DD037F14757BA22F9F4BF88F117,United States,26-Mar-19,essential,0.99
+CEBF2650C2184164BB5C006DDEED8C51,United States,26-Mar-19,essential,0.99
+56fcbc249226a59bc8849f591a7da563,India,26-Mar-19,essential,0.99
+0BA1E4C8DE17463DA081CDDC81F60BBC,United States,26-Mar-19,essential,0.99
+dd96e07f46da37c25ceaed8449cdd296,Egypt,26-Mar-19,hatchback,1.99
+dd96e07f46da37c25ceaed8449cdd296,Egypt,26-Mar-19,muscle,7.99
+dd96e07f46da37c25ceaed8449cdd296,Egypt,26-Mar-19,sedan,5.99
+56fcbc249226a59bc8849f591a7da563,India,26-Mar-19,sedan,5.99
+dd96e07f46da37c25ceaed8449cdd296,Egypt,26-Mar-19,sports,19.99
+56fcbc249226a59bc8849f591a7da563,India,26-Mar-19,sports,19.99
+d6b733ac920b77f7992094eca94c7c84,South Africa,26-Mar-19,SUV,9.99
+dd96e07f46da37c25ceaed8449cdd296,Egypt,26-Mar-19,SUV,9.99
+dd96e07f46da37c25ceaed8449cdd296,Egypt,26-Mar-19,trucks,11.99
+56fcbc249226a59bc8849f591a7da563,India,26-Mar-19,trucks,11.99
+dd96e07f46da37c25ceaed8449cdd296,Egypt,26-Mar-19,vintage,5.99
+56fcbc249226a59bc8849f591a7da563,India,26-Mar-19,vintage,5.99
+4772e6f1c637e9d37a02263627334786,Algeria,27-Mar-19,all_cars,0.17
+4e51620c26dfbd605a441f1c658a4aeb,Poland,27-Mar-19,everything,0.26
+43230b421316e6320abab96e6137a49e,Kazakhstan,28-Mar-19,all_cars,0.21
+43230b421316e6320abab96e6137a49e,Kazakhstan,28-Mar-19,everything,0.28
+43230b421316e6320abab96e6137a49e,Kazakhstan,28-Mar-19,bargain,4.99
+bbf9e77f1782fb051b77196391983a12,Guatemala,28-Mar-19,best_buy,0.14
+bbf9e77f1782fb051b77196391983a12,Guatemala,28-Mar-19,best_buy,0.14
+bbf9e77f1782fb051b77196391983a12,Guatemala,28-Mar-19,best_buy,0.14
+bbf9e77f1782fb051b77196391983a12,Guatemala,28-Mar-19,best_buy,0.75
+43230b421316e6320abab96e6137a49e,Kazakhstan,28-Mar-19,best_buy,19.99
+43230b421316e6320abab96e6137a49e,Kazakhstan,28-Mar-19,budget,1.99
+43230b421316e6320abab96e6137a49e,Kazakhstan,28-Mar-19,concept,0.78
+43230b421316e6320abab96e6137a49e,Kazakhstan,28-Mar-19,essential,0.99
+43230b421316e6320abab96e6137a49e,Kazakhstan,28-Mar-19,hot_del,14.99
+43230b421316e6320abab96e6137a49e,Kazakhstan,28-Mar-19,steal,9.99
+0726ed27ad8347b058da88b3cf2568ab,United States,29-Mar-19,budget,1.99
+0726ed27ad8347b058da88b3cf2568ab,United States,29-Mar-19,budget,1.99
+195311F3462643C6AFCD6C03D33F7BA3,United States,30-Mar-19,bargain,4.99
+78424CCF34EA435DBC583EFB46B1E3C4,United States,30-Mar-19,essential,0.99
+faa2a65ebe895ae4f5a1ba5fa6f064c0,Brazil,31-Mar-19,911,0.55
+be9d31a257073dd5698f2440e8dc1c8b,Honduras,31-Mar-19,all_cars,24.99
+a1d4a0566d4a20f762bb55d52878d933,India,31-Mar-19,all_cars,24.99
+faa2a65ebe895ae4f5a1ba5fa6f064c0,Brazil,31-Mar-19,everything,0.35
+ef13e1fffae6265d21cde475097a4cdc,India,31-Mar-19,everything,29.99
+6CB040A6AC274AC2AAF5BDE6C7855DDB,United States,31-Mar-19,bargain,4.99
+a1d4a0566d4a20f762bb55d52878d933,India,31-Mar-19,bargain,4.99
+FB6A4D9740D54204A73F4E9873B2D6A4,United States,31-Mar-19,bargain,4.99
+FB6A4D9740D54204A73F4E9873B2D6A4,United States,31-Mar-19,bargain,4.99
+faa2a65ebe895ae4f5a1ba5fa6f064c0,Brazil,31-Mar-19,best_buy,0.97
+faa2a65ebe895ae4f5a1ba5fa6f064c0,Brazil,31-Mar-19,best_buy,0.97
+faa2a65ebe895ae4f5a1ba5fa6f064c0,Brazil,31-Mar-19,best_buy,0.97
+faa2a65ebe895ae4f5a1ba5fa6f064c0,Brazil,31-Mar-19,best_buy,0.97
+a1d4a0566d4a20f762bb55d52878d933,India,31-Mar-19,best_buy,19.99
+ef13e1fffae6265d21cde475097a4cdc,India,31-Mar-19,best_buy,19.99
+ef13e1fffae6265d21cde475097a4cdc,India,31-Mar-19,best_buy,19.99
+ef13e1fffae6265d21cde475097a4cdc,India,31-Mar-19,best_buy,19.99
+ef13e1fffae6265d21cde475097a4cdc,India,31-Mar-19,best_buy,19.99
+AFC04A05653A43AAB3C91F086E836A82,United States,31-Mar-19,budget,1.99
+057F175B32C1497EAB75E5A0A20CC140,United States,31-Mar-19,budget,1.99
+9CBF57D06B6B46FAA096BF0A8B9E692A,United States,31-Mar-19,budget,1.99
+9CBF57D06B6B46FAA096BF0A8B9E692A,United States,31-Mar-19,budget,1.99
+4F72EBC3391845A6AF33C23BBA8B2623,United States,31-Mar-19,budget,1.99
+faa2a65ebe895ae4f5a1ba5fa6f064c0,Brazil,31-Mar-19,buses,0.44
+faa2a65ebe895ae4f5a1ba5fa6f064c0,Brazil,31-Mar-19,concept,0.59
+a1d4a0566d4a20f762bb55d52878d933,India,31-Mar-19,concept,14.99
+faa2a65ebe895ae4f5a1ba5fa6f064c0,Brazil,31-Mar-19,crazy,0.46
+faa2a65ebe895ae4f5a1ba5fa6f064c0,Brazil,31-Mar-19,designer,0.88
+faa2a65ebe895ae4f5a1ba5fa6f064c0,Brazil,31-Mar-19,essential,0.54
+a1d4a0566d4a20f762bb55d52878d933,India,31-Mar-19,essential,0.99
+AFC04A05653A43AAB3C91F086E836A82,United States,31-Mar-19,essential,0.99
+9CBF57D06B6B46FAA096BF0A8B9E692A,United States,31-Mar-19,essential,0.99
+4F72EBC3391845A6AF33C23BBA8B2623,United States,31-Mar-19,essential,0.99
+B85F55777B4C47AB8287FD2B47D1209C,United States,31-Mar-19,essential,0.99
+faa2a65ebe895ae4f5a1ba5fa6f064c0,Brazil,31-Mar-19,hatchback,0.71
+faa2a65ebe895ae4f5a1ba5fa6f064c0,Brazil,31-Mar-19,muscle,0.1
+faa2a65ebe895ae4f5a1ba5fa6f064c0,Brazil,31-Mar-19,sedan,0.55
+faa2a65ebe895ae4f5a1ba5fa6f064c0,Brazil,31-Mar-19,sports,0.25
+faa2a65ebe895ae4f5a1ba5fa6f064c0,Brazil,31-Mar-19,trucks,0.18
+faa2a65ebe895ae4f5a1ba5fa6f064c0,Brazil,31-Mar-19,vintage,0.91
