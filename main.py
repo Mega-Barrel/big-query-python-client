@@ -3,9 +3,9 @@ import pandas as pd
 from big_query import BigQueryOperations
 
 if __name__ == '__main__':
-    TABLE_ID = 'games2win_assignment_funnel_analysis'
+    TABLE_ID = 'invoice_item'
     # TABLE_SCHEMA = 'table_schema/zwya_transactions.json'
-    TABLE_FILE_PATH = 'table_schema/games2win_assignment_funnel_analysis.csv'
+    TABLE_FILE_PATH = 'table_schema/pleo_invoice_item.csv'
 
     # Create BigQueryOperations instance
     bq = BigQueryOperations()
